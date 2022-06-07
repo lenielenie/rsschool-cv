@@ -3,8 +3,9 @@
 
 ## Contacts
 * +375 (44) 375-44-44
-* Telegram @lenielenie
 * pugachevaelena.9@gmail.com
+* Telegram @lenielenie
+* Discord alena#7421
 * [LinkedIn](https://www.linkedin.com/in/alena-pugacheva-958286153/)
 
 ### About me
@@ -23,3 +24,4 @@ I'm 24 y.o. My hometown is Minsk, Belarus, now I live in Moscow, Russia. I've go
 + Figma
 + Adobe Photoshop
 + Adobe Illustrator
+
