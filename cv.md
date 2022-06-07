@@ -11,9 +11,9 @@
 I'm 24 y.o. My hometown is Minsk, Belarus, now I live in Moscow, Russia. I've got legal education and several years of experience in this field, but I've decided to change my career path into IT and to start from the beginning. However, throughout my university activities and career I’ve developed certain soft skills like multitasking, self-organization, reliability, communicative and social skills. I will study so hard to obtain and improve my hard skills too.
 
 #### Education
-+ Belarusian State Univirsity, Master's degree in Law, LL.M (2015-20200
++ Belarusian State Univirsity, Master's degree in Law, LL.M (2015-2020)
 + CIDR: [Basics of Digital Design](https://cidr.design/digital-design/) (2020)
-+ _The Rolling Scopes School [«JavaScript/Front-end.Stage 0»](https://rs.school/js-stage0/): Git, HTML, CSS, Javascript basics_ (2022 and up to the present)
++ _The Rolling Scopes School [«JavaScript/Front-end.Stage 0»](https://rs.school/js-stage0/): Git, HTML, CSS, Javascript basics (2022 and up to the present)_
 
 ##### Languages
 + Belarusian, Russian - Native
